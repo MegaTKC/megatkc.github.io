@@ -19,6 +19,7 @@ Disadvantages of Feather:
 - No Mobs/Animals and AI.
 - Only Superflat world generation is available
 - Runs arm64 and amd64 architectures.
+- Long compile process
 
 Advantages of MCPI-Reborn:
 - IP Banning
@@ -27,6 +28,7 @@ Advantages of MCPI-Reborn:
 - Official Server software for MCPI-Reborn
 - Support for survival mode
 - Support for armhf, arm64, i386 and amd64 processors.
+- Fast Install and server setup process
 
 Disadvantages of MCPI-Reborn:
 - No Whitelist
