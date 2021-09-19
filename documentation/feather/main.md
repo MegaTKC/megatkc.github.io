@@ -1,3 +1,9 @@
+---
+layout: default
+title: Main - Feather Documentation
+center: false
+---
+
 # Feather 
 A server software forked from PocketMine-MP and created in PHP. It was created for Minecraft Pi Edition Reborn otherwise known as MCPI-Reborn.
 
