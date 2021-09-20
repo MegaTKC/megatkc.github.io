@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Main - Feather Documentation
+title: Creating Plugins - Feather Documentation
 center: false
 ---
 
