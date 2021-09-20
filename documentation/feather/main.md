@@ -37,5 +37,5 @@ Disadvantages of MCPI-Reborn:
 
 Above are the differences between Feather and MCPI-Reborn. It is noted that Feather is in alpha and corruptions are possible.
 
-To install Feather. You will need to download our release. Then unzip the file. After the file has been unzipped. Go into the directory and run ./compile_php.sh.
-This may take a long time, depending on your processor and speed. After the compilation has finished, run ./start.sh to start up the server. Enjoy!
+To install Feather. You will need to download our release. Then unzip the file. After the file has been unzipped. Go into the directory and run ./start.sh.
+Enjoy! (Files are always precompiled)
