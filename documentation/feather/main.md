@@ -39,3 +39,6 @@ Above are the differences between Feather and MCPI-Reborn. It is noted that Feat
 
 To install Feather. You will need to download our release. Then unzip the file. After the file has been unzipped. Go into the directory and run ./start.sh.
 Enjoy! (Files are always precompiled)
+
+## Learn how to create plugins
+<a href="https://megatkc.github.io/documentation/feather/creating-plugins.md">Creating Plugins</a>
