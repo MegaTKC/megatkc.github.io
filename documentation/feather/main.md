@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Main - Feather Documentation
 center: false
 ---
