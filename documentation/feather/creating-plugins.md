@@ -35,3 +35,5 @@ Save the file and drag it into your pocketmine or feather ```plugins``` director
 
 ## Step 5 
 Run your Feather / Pocketmine server! Enjoy!
+## Documentation
+<a href="https://megatkc.github.io/documentation/feather/main.html">Main Feather Documentation</a>
