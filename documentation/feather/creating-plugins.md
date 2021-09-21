@@ -1,9 +1,3 @@
----
-layout: default
-title: Creating Plugins - Feather Documentation
-center: false
----
-
 # Creating Plugins 
 Create plugins to spice up your Feather / Pocketmine server!
 
