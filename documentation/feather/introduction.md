@@ -35,4 +35,4 @@ To install Feather. You will need to download our release. Then unzip the file. 
 Enjoy! (Files are always precompiled)
 
 ## Documentation
-<a href="https://megatkc.github.io/documentation/feather/main.html">Main Feather Documentation</a>
+<a href="https://megatkc.github.io/documentation/feather/index.html">Main Feather Documentation</a>
