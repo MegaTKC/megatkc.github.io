@@ -8,4 +8,4 @@
 <a href="https://megatkc.github.io/documentation/feather/creating-plugins.html">Creating Plugins</a>
 
 ## Resources
-<a href="https://megatkc.github.io/documentation/feather/feather-vs-other-server-software.html">Feather vs Other Server Software</a>
+Coming Soon
